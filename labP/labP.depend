@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673495054 source:c:\users\sathyam kumar\documents\cb_codes(1st yr)\labp\main.c
+	<math.h>
+	<string.h>
+	<stdio.h>
+

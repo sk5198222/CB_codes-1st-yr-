@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701666535 source:c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\filehandlingtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

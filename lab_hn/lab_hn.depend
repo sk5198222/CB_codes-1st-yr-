@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673507638 source:c:\users\sathyam kumar\documents\cb_codes(1st yr)\lab_hn\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

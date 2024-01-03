@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672656569 source:c:\users\sathyam kumar\documents\cb_codes(1st yr)\structure_on_freedomfighters\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

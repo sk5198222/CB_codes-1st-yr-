@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1696119528 source:c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\main.c
+	<stdio.h>
+	<string.h>
+	"venkat.h"
+	"varunH.h"
+	"pallavi.h"
+	"naveen.h"
+	"kavya.h"
+	"searching.h"
+	"chandana.h"
+	"satyam.h"
+
+1691756658 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\venkatpro.h
+
+1691757419 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\varun.h
+	<string.h>
+
+1696118971 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\venkat.h
+	<conio.h>
+
+1696118110 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\varunh.h
+	<string.h>
+
+1696119798 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\pallavi.h
+	<windows.h>
+
+1696254037 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\naveen.h
+
+1696119151 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\kavya.h
+
+1696119033 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\searching.h
+
+1693817591 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\sorting.h
+
+1696116937 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\chandana.h
+	<string.h>
+	<ctype.h>
+
+1696117689 c:\users\sathyam kumar\documents\cb_codes(1st yr)\hackathon\hackathonmain\satyam.h
+	<string.h>
+	<ctype.h>
+

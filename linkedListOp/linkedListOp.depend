@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685966318 source:c:\users\sathyam kumar\documents\cb_codes(1st yr)\linkedlistop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
